@@ -1,0 +1,6 @@
+﻿{
+  "bucket": "storage.foodtime.asia",
+  "connStr": "Data Source=DESKTOP-7B0KP70\\sql2017;Initial Catalog=DB_RE_2017PX;Integrated Security=True",
+  "storageDir": "d:\\",
+  "dbName": [ "DB_RE_2017PX" ]
+}

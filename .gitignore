@@ -1,0 +1,9 @@
+**/packages/
+**/bin/
+**/obj/
+*/obj/
+**/temp/
+**/.vs/
+**/RE_WEBAPP/00/
+*.rar
+**/.vs/
